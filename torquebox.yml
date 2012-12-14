@@ -1,0 +1,7 @@
+---
+stomp:
+  host: localhost
+  stomplets:
+    test.stomplet:
+      route: '/test'
+      class: TestStomplet
